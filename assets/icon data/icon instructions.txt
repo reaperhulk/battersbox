@@ -1,0 +1,2 @@
+to make the icon take the original photo and use the "dry brush" in photoshop. settings should be 10/10/1
+if you want to make ICONS then resize to 512 before applying dry brush (and then scale to icon size). default load images should be resized to their expected res and then dry brushed

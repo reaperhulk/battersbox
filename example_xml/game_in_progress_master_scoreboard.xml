@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2012 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<games year="2012" month="02" day="29" modified_date="2012-02-29T20:19:13Z"
+       next_day_date="2012-03-01">
+   <game id="2012/02/29/fanbbc-phimlb-1" venue="Bright House Field" game_pk="332093"
+         time="1:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="1:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="1:05"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="E"
+         resume_date=""
+         time_zone_aw_lg="0"
+         time_zone_hm_lg="-5"
+         time_aw_lg=""
+         aw_lg_ampm=""
+         tz_aw_lg_gen=""
+         time_hm_lg="1:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2700"
+         scheduled_innings="9"
+         description="vs Florida State University"
+         away_name_abbrev="FSU"
+         home_name_abbrev="PHI"
+         away_code="fan"
+         away_file_code="fsu"
+         away_team_id="101"
+         away_team_city="Florida State U."
+         away_team_name="Seminoles"
+         away_division=""
+         away_league_id="108"
+         away_sport_code="bbc"
+         home_code="phi"
+         home_file_code="phi"
+         home_team_id="143"
+         home_team_city="Philadelphia"
+         home_team_name="Phillies"
+         home_division="E"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="WED"
+         gameday_sw="N"
+         away_games_back=""
+         home_games_back=""
+         away_games_back_wildcard=""
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USFL0084"
+         gameday="2012_02_29_fanbbc_phimlb_1"
+         away_win="0"
+         away_loss="0"
+         home_win="0"
+         home_loss="0"
+         league="AN">
+      <status status="In Progress" ind="I" reason="" inning="8" top_inning="Y" b="0" s="0"
+              o="2"
+              inning_state="Top"/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="1" home="5"/> 
+         <inning away=""/> 
+         <r away="1" home="6" diff="5"/> 
+         <h away="4" home="7"/> 
+         <e away="1" home="1"/> 
+      </linescore>
+      <batter id="613320" last="Delph" first="Josh" name_display_roster="Delph" number="2"
+              pos="CF"
+              ab="1"
+              h="0"
+              avg=".000"
+              hr="0"
+              rbi="0"
+              slg=".000"
+              ops=".000"
+              obp=".000"/>
+      <pitcher id="518418" ip="0.2" er="0" era="0.00" wins="0" losses="0" last="Aumont"
+               first="Phillippe"
+               name_display_roster="Aumont"
+               number="43"/>
+      <opposing_pitcher id="600238" era="18.00" wins="0" losses="0" last="Waugh" first="Mack"
+                        name_display_roster="Waugh"
+                        number="44"/>
+      <pbp last="John Holland strikes out swinging.  "/>
+      <ondeck id="600238" last="Waugh" first="Mack" name_display_roster="Waugh" number="44"
+              pos="P"
+              ab="0"
+              h="0"
+              avg=".000"
+              hr="0"
+              rbi="0"
+              slg=".000"
+              ops=".000"
+              obp=".000"/>
+      <inhole id="596056" last="Nogowski" first="John" name_display_roster="Nogowski"
+              number="3"
+              pos="1B"
+              ab="3"
+              h="1"
+              avg=".333"
+              hr="0"
+              rbi="0"
+              slg=".333"
+              ops=".667"
+              obp=".333"/>
+      <home_runs>
+         <player id="425659" last="Luna" first="Hector" name_display_roster="Luna, H"
+                 number="29"
+                 hr="1"
+                 std_hr="1"
+                 inning="7"
+                 runners="1"
+                 team_code="phi"/>
+      </home_runs>
+      <runners_on_base status="1">
+         <runner_on_1b id="592603" last="O'Brien" first="Sean" name_display_roster="O'Brien"
+                       number="6"/> 
+      </runners_on_base>
+      <links wrapup="" home_preview="" away_preview="" preview="" tv_station=""/>
+      <broadcast>
+        <home>
+            <tv/>
+            <radio/>
+         </home>
+        <away>
+            <tv/>
+            <radio/>
+         </away>
+      </broadcast>
+      <game_media/>
+   </game>
+</games>
